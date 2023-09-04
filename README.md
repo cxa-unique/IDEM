@@ -5,7 +5,7 @@ Xuanang Chen, Ben He, Zheng Ye, Le Sun, Yingfei Sun:
 [Towards Imperceptible Document Manipulations against Neural Ranking Models](https://aclanthology.org/2023.findings-acl.416/).
 In *Findings of ACL 2023*.
 
-<img src=https://github.com/cxa-unique/IDEM/blob/main/idem_framework.png width=60% />
+<img src=https://github.com/cxa-unique/IDEM/blob/main/idem_framework.png#pic_center width=60% />
 
 
 ## Installation
