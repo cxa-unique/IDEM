@@ -70,7 +70,6 @@ CUDA_VISIBLE_DEVICES=0 python -u generate_connection_sents.py \
                                   --max_sample_times 10 \
                                   --sampling_topk 50 \
                                   --output_connect_sents {the output file contains generated connection sentences}
-
 ```
 BART-Base model is used to generate connection sentences by default. We can change the prefix text by assigning `--prompt_str`, 
 and adjust the number or length of connection sentences by setting `--connect_sent_num` or `--connect_sent_max_len`.
