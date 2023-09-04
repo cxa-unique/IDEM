@@ -6,7 +6,7 @@
 import os
 from typing import Dict, List, Tuple, Optional, Any, Union
 
-from .dist.sampler import SyncedSampler
+from .sampler import SyncedSampler
 from .modeling import Reranker, RerankerDC
 
 import torch
